@@ -1,2 +1,2 @@
 # chatbot-intergation-file
-Chatbot pertukaran file dengan fasilitas channel
+Permasalah yang harus di selesaikan penulis adalah mengirim file dari satu Bot ke Bot lainnya. Namun hal yang menjadi kendala bagi penulis adalah kebijakan dari Telegram yang tidak menyediakan komunikasi antar Bot pada API Bot. Untuk itu, penulis membuat cara baru bertukar data dengan memanfaatkan fasilitas channel dari Telegram. Fitur channel hampir mirip dengan fitur yang dimiliki BlackBerry Messenger. Meski berbeda tipis dengan group, channel dapat difungsikan untuk kegunaan yang lebih luas, misalnya untuk brand atau perusahaan. Di sana mereka dapat memperoleh anggota yang tak terbatas, menyebarkan informasi terbaru dan menjangkau anggota dengan cepat dan gratis.
